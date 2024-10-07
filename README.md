@@ -76,4 +76,4 @@ If you have any questions or suggestions, feel free to reach out:
 
 LinkedIn: (https://www.linkedin.com/in/vrushabh-awathankar-jain-148b95226/)
 
-Email: vrushabhawathankar@gmail.com
+Email: vrushabhawathankar28@gmail.com
