@@ -14,7 +14,7 @@ Technology Stack
 Programming Language: Java
 Database: MySQL (or any other supported by JDBC)
 JDBC API: Used for database connectivity and operations
-IDE: [IntelliJ IDEA, Eclipse, or your preferred IDE]
+
 Version Control: Git
 Setup and Installation
 Prerequisites
